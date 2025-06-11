@@ -246,7 +246,7 @@ putting the following into ``inst/faucet.yaml``::
   dps:
       switch-1:
           dp_id: 0x1
-          timeout: 3600
+          timeout: 7201
           arp_neighbor_timeout: 3600
           interfaces:
               1:
